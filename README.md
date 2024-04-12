@@ -1,1 +1,2 @@
-# Kidney_Stone_Tumor_Cyst_Detection
+# Kidney Stone Tumor Cyst Detection:
+In this project, I utilized the CT Kidney Dataset from Kaggle to develop a deep learning model capable of detecting kidney diseases such as kidney stones, tumors, and cysts. I chose to use the VGG16 model as a base due to its proven performance in image recognition tasks. To enhance its capabilities, I added custom layers on top of the existing model. This approach not only allowed me to achieve an impressive accuracy of approximately 94% but also highlights the effectiveness of transfer learning in medical image analysis.
